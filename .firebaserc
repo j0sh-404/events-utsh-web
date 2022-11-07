@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "events-db-8c4fe": {
+      "hosting": {
+        "blk-design-system-angular": [
+          "events-db-8c4fe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "events-db-8c4fe"
+  }
+}
